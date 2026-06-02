@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
+
+input, textarea{
+    width:80%;
+    padding:10px;
+    margin:10px;
+}
+
+textarea{
+    height:100px;
+}
+
+.post{
+    background:white;
+    padding:15px;
+    margin:20px;
+    border-radius:10px;
+    box-shadow:0 0 5px gray;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
